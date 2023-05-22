@@ -5,7 +5,7 @@ This project was developed for a final project at Indiana University for ECON-E4
 The data used in this project is provided by Home Credit Group and can be downloaded from this link: 
   - https://www.kaggle.com/competitions/home-credit-default-risk/data.
   
-This link contains several csv files with applicant and bureau information, which are all merged with the main 'application_train' dataset which is used as the final set for training and validation. 
+This link contains several csv files with applicant and bureau information, which are all merged with the main 'application_train' dataset. The training dataset is split into train and validation sets that are used to evaluate the performance of the model. 
 
 ## Usage 
 1. Download the data from the Kaggle competition page and place it in the working directory of 'feature_engineering.ipynb' and 'my_functions.py'
